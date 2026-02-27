@@ -14,7 +14,7 @@ I'm Currently working on a Project Called Riwi Tech Store and learning:
 
 - 📘 Python
 - 📘 HTML
-- 📘 c++ 
+- 📘 css
 ## Interest
 - Videogames
 - Books
